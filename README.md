@@ -63,7 +63,8 @@
 5、集成Swagger，方便进行接口API的统一测试
 
 ### 5、开发的细节
-个人博客地址：
+个人博客地址：https://blog.csdn.net/qq_44807756/article/details/129386363?spm=1001.2014.3001.5502
 
-
+### 6、Gitee托管
+https://gitee.com/jinyang-jy/OnlineOfficeSystem.git
 
